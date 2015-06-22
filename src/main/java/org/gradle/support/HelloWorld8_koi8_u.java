@@ -1,4 +1,4 @@
-//ğóññêèé êîè-8
+//ÒÕÓÓËÉÊ ËÏÉ-8
 package org.gradle.support;
 
 import java.util.function.Supplier;
@@ -6,7 +6,7 @@ import java.util.function.Supplier;
 public class HelloWorld8_koi8_u {
 	
 	public static void main(String[] args) {
-		Supplier<String> /*ğóññêèé êîè-8*/helloer = () -> "Hello World!!!!" ;
+		Supplier<String> /*ÒÕÓÓËÉÊ ËÏÉ-8*/helloer = () -> "Hello World!!!!" ;
 		System.out.println(helloer.get());
 	}
 }
