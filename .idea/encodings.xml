@@ -11,6 +11,8 @@
     <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_HKSCS.java" charset="Big5-HKSCS" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_IBM_00858.java" charset="IBM00858" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_JISX_0201.java" charset="JIS_X0201" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_UTF_16BE.java" charset="UTF-32BE" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_UTF_16LE.java" charset="UTF-16LE" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_ibm01148.java" charset="IBM01148" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_ibm420.java" charset="IBM420" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_iso2022.java" charset="ISO-2022-JP" />
@@ -20,6 +22,8 @@
     <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_koi8_u.java" charset="KOI8-U" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_rus_utf8.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_win1251.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_x_IBM1025.java" charset="x-IBM1025" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld8_x_Mac_arabic.java" charset="x-MacArabic" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/gradle/support/HelloWorld_jap1.java" charset="Shift_JIS" />
   </component>
 </project>
